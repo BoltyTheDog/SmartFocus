@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    
+    <!-- Shadow/Depth -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M50,20 L80,80 L50,70 L20,80 Z" />
+
+    <!-- Main Arrow Body (Gold/Yellow) -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M50,15 L75,75 L50,65 L25,75 Z" />
+        
+    <!-- Central Spine shading (Darker Gold) -->
+    <path
+        android:fillColor="#C0A000"
+        android:pathData="M50,15 L50,65 L25,75 Z" />
+        
+</vector>

@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Hackaton/AI_on_receiver_animals_alpha_edge"
+		},
+		{
+			"path": "../pub-yolo-android"
+		},
+		{
+			"path": "../webrtc-android"
+		},
+		{
+			"path": "../Hackathon-2026---T19"
+		},
+		{
+			"path": "../SurveillanceDrone/HeatSeeker/HeatSeeker_code"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package protocol;
+
+option go_package = "/messages_protobuf";
+option java_package = "com.example.msdksample.proto";
+option java_outer_classname = "SpectrumProto";
+
+message Spectrum {
+  int64 timestamp = 1;
+  float high_voltage = 2;
+  float digital_gain = 3;
+  float real_time = 4;
+  float live_time = 5;
+  float dead_time = 6;
+  float temperature_cpu = 7;
+  float temperature_sipm = 8;
+  repeated uint32 channels = 9;
+
+  int64 telemetry_timestamp = 10;
+  double longitude = 11;
+  double latitude = 12;
+  double altitude = 13;
+  double speed = 14;
+  int64 laser_timestamp = 15;
+  double laser_altitude = 16;
+  
+  uint32 sequence_number = 17;
+  bool retransmission = 18;
+}

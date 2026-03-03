@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package protocol;
+
+option go_package = "/messages_protobuf";
+option java_package = "com.example.msdksample.proto";
+option java_outer_classname = "LocatorProto";
+
+message LocatorData {
+  int64 timestamp = 1;
+  bool is_background = 2;
+  double true_azimuth = 3;
+  double true_elevation = 4;
+  double uncertainty = 5;
+  double dose_rate = 6;
+  double tcps = 7;
+
+  uint32 sequence_number = 8;
+  bool retransmission = 9;
+}

@@ -1,0 +1,133 @@
+﻿> Task :android-sdk-v5-uxsdk:preBuild UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:preDebugBuild UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:checkDebugAarMetadata UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:mergeDebugJniLibFolders UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:mergeDebugNativeLibs NO-SOURCE
+> Task :android-sdk-v5-uxsdk:stripDebugDebugSymbols NO-SOURCE
+> Task :android-sdk-v5-uxsdk:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :android-sdk-v5-uxsdk:dataBindingMergeDependencyArtifactsDebug UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:generateDebugResValues UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:generateDebugResources UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:packageDebugResources UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:dataBindingGenBaseClassesDebug UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:processDebugNavigationResources UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:parseDebugLocalResources UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:generateDebugRFile UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:kaptGenerateStubsDebugKotlin UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:kaptDebugKotlin SKIPPED
+> Task :android-sdk-v5-uxsdk:compileDebugKotlin UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:extractDebugAnnotations UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:mergeDebugShaders UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:compileDebugShaders NO-SOURCE
+> Task :android-sdk-v5-uxsdk:generateDebugAssets UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:mergeDebugAssets UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:javaPreCompileDebug UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:compileDebugJavaWithJavac UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:prepareDebugArtProfile UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:prepareLintJarForPublish UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:processDebugManifest UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:processDebugJavaRes UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:mergeDebugJavaResource UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:syncDebugLibJars UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:writeDebugAarMetadata UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:bundleDebugAar UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:assembleDebug UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :android-sdk-v5-uxsdk:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:extractDebugProto UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:createFullJarDebug UP-TO-DATE
+> Task :app:extractIncludeDebugProto UP-TO-DATE
+> Task :app:extractProto UP-TO-DATE
+> Task :app:generateDebugProto UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:compileDebugLibraryResources UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:processDebugNavigationResources UP-TO-DATE
+> Task :app:compileDebugNavigationResources UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:extractDeepLinksDebug UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :app:kaptGenerateStubsDebugKotlin UP-TO-DATE
+> Task :app:kaptDebugKotlin SKIPPED
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :android-sdk-v5-uxsdk:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:mergeDebugNativeLibs UP-TO-DATE
+> Task :app:stripDebugDebugSymbols UP-TO-DATE
+> Task :app:validateSigningDebug UP-TO-DATE
+> Task :app:writeDebugAppMetadata UP-TO-DATE
+> Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+> Task :app:mergeLibDexDebug FAILED
+> Task :app:compileDebugKotlin
+
+[Incubating] Problems report is available at: file:///C:/Users/bolty/Desktop/SurveillanceDrone/HeatSeeker/HeatSeeker_code/build/reports/problems/problems-report.html
+.\gradlew : 
+At line:1 char:1
++ .\gradlew assembleDebug > build_log.txt 2>&1; Get-Content build_log.t ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:mergeLibDexDebug'.
+> Could not resolve all files for configuration ':app:debugRuntimeClasspath'.
+   > Failed to transform bundleLibRuntimeToDirDebug (project :android-sdk-v5-uxsdk) to match 
+attributes {artifactType=android-dex, com.android.build.api.attributes.AgpVersionAttr=8.13.2, 
+com.android.build.api.attributes.BuildTypeAttr=debug, 
+com.android.build.gradle.internal.attributes.VariantAttr=debug, 
+dexing-component-attributes=ComponentSpecificParameters(minSdkVersion=24, debuggable=true, 
+enableCoreLibraryDesugaring=false, enableGlobalSynthetics=false, enableApiModeling=false, 
+dependenciesClassesAreInstrumented=false, asmTransformComponent=null, 
+useJacocoTransformInstrumentation=false, enableDesugaring=true, needsClasspath=false, 
+useFullClasspath=false, componentIfUsingFullClasspath=null), org.gradle.category=library, 
+org.gradle.jvm.environment=android, org.gradle.libraryelements=classes, 
+org.gradle.usage=java-runtime, org.jetbrains.kotlin.platform.type=androidJvm}.
+      > Execution failed for DexingNoClasspathTransform: C:\Users\bolty\Desktop\SurveillanceDron
+e\HeatSeeker\HeatSeeker_code\android-sdk-v5-uxsdk\build\intermediates\runtime_library_classes_di
+r\debug\bundleLibRuntimeToDirDebug.
+         > The given file 'C:\Users\bolty\Desktop\HeatSeeker\HeatSeeker_code\android-sdk-v5-uxsd
+k\build\intermediates\runtime_library_classes_dir\debug\bundleLibRuntimeToDirDebug\dji\v5\ux\cam
+eracore\util\CameraActionSound$ShutterSoundCount.class' is located outside the root directory 'C
+:\Users\bolty\Desktop\SurveillanceDrone\HeatSeeker\HeatSeeker_code\android-sdk-v5-uxsdk\build\in
+termediates\runtime_library_classes_dir\debug\bundleLibRuntimeToDirDebug'
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.13/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 9s
+69 actionable tasks: 2 executed, 67 up-to-date
