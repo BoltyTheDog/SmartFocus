@@ -42,9 +42,9 @@ This lightweight protocol lets any compatible client (Python, desktop, another p
 This project was co‑developed during the **Open Gateway Talent Arena Hackathon 2026**.
 
 **Team members:**
-- David Garcia Cirauqui
 - Vladislav Lapin
 - Jan Viñas
 - Erhan Kesken _(good inconditional support)_
+- David Garcia Cirauqui
 
 *(no unnecessary NaC code included)*
